@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h2>You're logged in with Vue.js & Facebook!!</h2>
-        <p>All accounts from secure api end point:</p>
+        <h2>Puedes logearte con tu cuenta Facebook</h2>
+        <p>Con toda confianza</p>
         <table class="table table-striped">
             <thead>
                 <tr>
